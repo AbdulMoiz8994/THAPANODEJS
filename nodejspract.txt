@@ -1,0 +1,1 @@
+Welocome to node js  Welcome to our first file. This is second line of appendFile Sync
