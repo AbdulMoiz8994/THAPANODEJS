@@ -31,12 +31,12 @@ const fs = require("fs");
 // fs.renameSync('thapapractice.txt','thapapractice1.txt')
 // fs.mkdirSync("MoizFolder")
 
-fs.appendFileSync('MoizFolder/moizpract.txt',"My name is abdul moiz")
+// fs.appendFileSync('MoizFolder/moizpract.txt',"My name is abdul moiz")
 
-fs.appendFileSync('MoizFolder/moizpract.txt'," Please come in second line")
+// fs.appendFileSync('MoizFolder/moizpract.txt'," Please come in second line")
 
-// const buffer_Data=fs.readFileSync('MoizFolder/moizpract.txt', 'utf8');
-// console.log(buffer_Data);
+// // const buffer_Data=fs.readFileSync('MoizFolder/moizpract.txt', 'utf8');
+// // console.log(buffer_Data);
 
-fs.unlinkSync('MoizFolder/moizpract.txt')
-fs.rmdirSync('MoizFolder')
+// fs.unlinkSync('MoizFolder/moizpract.txt')
+// fs.rmdirSync('MoizFolder')
